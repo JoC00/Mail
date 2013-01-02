@@ -1,5 +1,3 @@
-## General Coding Tips
-
 Here are some general coding style tips for HTML email.
 
 ### 1. Use `<table>`s
