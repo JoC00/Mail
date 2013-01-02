@@ -1,4 +1,4 @@
 Welcome to the antwort wiki!
 
 #### Contents
-* [Coding Style](Coding-Style)
+* [Coding Style](wiki/Coding-Style)
