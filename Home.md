@@ -1,4 +1,3 @@
-Welcome to the antwort wiki!
+Looking for a wiki?
 
-#### Contents
-* [Coding Style](wiki/Coding-Style)
+[See Antwort Getting Started Guide](http://internations.github.com/antwort/guide.html)
