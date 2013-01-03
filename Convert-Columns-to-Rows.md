@@ -4,7 +4,7 @@ So how do we create a more complex and interested layout, for example 2 or 3 col
 
 And more importantly can we make this work across all major email clients, including Outlook? Yes, we can.
 
-### Columns Container Table
+## Columns Container Table
 
 In your desktop version, to create columns as you would normally would with `<table>`s _not_ `<div>`s as some recommend.
 An example columns container looks like this.
@@ -36,7 +36,7 @@ I choose a breakpoint of `600px` instead of `480px` to catch small tablets in ad
 
 This example demonstrates converting 2 columns into rows, but the strategy is the same for more columns. For each additional column, add another `<td>` with the `force-col` class. The mobile styles require no additional editing.
 
-### Manipulating Content Layout between desktop and mobile
+## Manipulating Content Layout between desktop and mobile
 
 Now let's improve our layout a bit and add content to our columns. Here we have a simple layout that flows like this:  
 
