@@ -23,7 +23,7 @@ Each template has the following layout:
 * `styles.css` - template specific CSS.
 * `responsive.css` - template specific mobile styles. Note that the mobile styles
     * includes reset styles to normalize how clients render email.
-    * uses preffered `[class*="selector"]` syntax to prevent Yahoo from rendering mobile version on desktops.
+    * uses preferred `[class*="selector"]` syntax to prevent Yahoo from rendering mobile version on desktops.
 
 
 ## Recommended Workflow
