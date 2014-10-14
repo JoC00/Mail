@@ -1,5 +1,3 @@
-# Getting Started with Antwort
-
 Antwort is not *really* a framework. It is meant to teach you how to do responsive emails, by transforming columns into rows.
 
 ## Organization
