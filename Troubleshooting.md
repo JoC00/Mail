@@ -4,7 +4,7 @@ Here are some common problems and solutions when designing and coding emails.
 
 - [iOS creates blue links over dates and addresses](#1-ios-creates-blue-links-over-dates-and-addresses)
 - [My text is green in Hotmail](#2-my-text-is-green-in-hotmail)
-- [Gmail shows purple, I didn't use Times New Roman…](#3-gmail-shows-purple-i-didn't-use-times-new-roman)
+- [Gmail shows purple, I didn't use Times New Roman…](#3-gmail-shows-purple-i-didnt-use-times-new-roman)
 - [My images and text are running into each other](#4-my-images-and-text-are-running-into-each-other)
 
 ### Layout
