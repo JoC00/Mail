@@ -118,3 +118,11 @@ Using this strategy, Antwort v1 renders like so on Android:
 </table>
 
 Depending on your design, this may not be desired behavior, esp. on Android Gmail app. Check your audience's email client share statistics before deciding if this strategy works for you.
+
+## Bottom Line
+
+#### How important is the current Android support to you?
+
+[Android v0 legacy](https://litmus.com/pub/45e64b3) still works across nearly all Email clients. The [code](https://github.com/InterNations/antwort/tree/v0.1.2) also a bit easier to understand.
+
+At the end of the day, how much "broken" can you tolerate? This will also vary depending on your design. It's possible that the new v1 strategy creates problems in the Android Gmail app, which fudges its own widths into your email.
