@@ -1,36 +1,12 @@
 
 
-
 Antwort version 1.0 is a complete code rewrite using a different strategy to support the latest Android Email clients.
 
 Instead of forcing `<td>` into `display: block !important;` on mobile, we force a `100%` width on aligned `<table>`s and include an Outlook only wrapper table.
 
+**Antwort v1.0 Desktop Version**
 
-<table>
-  <tr>
-    <td>
-      <img src="http://internations.github.io/antwort/images/v1-previews/3-cols-images.png" alt="Antwort v.10 Desktop Version" width="300">
-    </td>
-    <td>
-      <img src="http://internations.github.io/antwort/images/guide/v1-3cols-andoird-email.png" alt="Android Email app properly transforms columns to rows" width="300">
-    </td>
-    <td>
-      <img src="http://internations.github.io/antwort/images/guide/v1-3col-anroid-gmail.png" alt="Android Gmail makes it own rows" width="300">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Antwort v1.0</strong> Desktop Version
-    </td>
-    <td align="center">
-       <strong>Android Email app</strong><br>properly transforms columns to rows
-    </td>
-    <td align="center">
-      <strong>Android Gmail app</strong><br>makes it own rows by fudging our widths
-    </td>
-  </tr>
-</table>
-
+<img src="http://internations.github.io/antwort/images/v1-previews/3-cols-images.png" alt="Antwort v1.0 Desktop Version" width="300">
 
 #### Simulating Floats with Tables
 
@@ -84,5 +60,26 @@ In the example above, our tables have fixed width of `264px` a `.force-row` clas
   }
 }
 ```
+
+
+<table>
+  <tr>
+    <td>
+      <img src="http://internations.github.io/antwort/images/guide/v1-3cols-andoird-email.png" alt="Android Email app properly transforms columns to rows" width="300">
+    </td>
+    <td>
+      <img src="http://internations.github.io/antwort/images/guide/v1-3col-anroid-gmail.png" alt="Android Gmail makes it own rows" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+       <strong>Android Email app</strong><br>properly transforms columns to rows
+    </td>
+    <td align="center">
+      <strong>Android Gmail app</strong><br>makes it own rows by fudging our widths
+    </td>
+  </tr>
+</table>
+
 
 Depending on your design, this may not be desired behavior, esp. on Android Gmail app. Check your audience's email client share statistics before deciding if this strategy works for you.
