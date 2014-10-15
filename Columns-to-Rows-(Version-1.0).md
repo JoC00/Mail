@@ -1,4 +1,3 @@
-
 Antwort version 1.0 is a complete code rewrite using a different strategy to support the latest Android Email clients.
 
 Instead of forcing `<td>` into `display: block !important;` on mobile, we force a `100%` width on aligned `<table>`s and include an Outlook only wrapper table.
