@@ -8,7 +8,7 @@ Antwort offers responsive layouts for Email that both fits and adapts to client 
 * [Antwort Version 1.0 Release](https://github.com/InterNations/antwort/wiki/Version-1.0-Changes)  
    An explanation of emai rendering changes on Android 4.3+ that prompted a complete code rewrite.
 
-### Transforming Columns to Rows
+#### Transforming Columns to Rows
 
 * [Version 1.0](https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0))  
   A code walkthrough of current mobile strategy for changing columns to rows.
@@ -16,7 +16,7 @@ Antwort offers responsive layouts for Email that both fits and adapts to client 
 * [Legacy - version 0](https://github.com/InterNations/antwort/wiki/Transforming-Columns-to-Rows-(v0-legacy))   
   This legacy works in all major Email clients *except* Android 4.3, where it can appear very broken in some cases.
    
-### Email HTML
+#### Email HTML
     
 * [HTML Styleguide](https://github.com/InterNations/antwort/wiki/HTML-Styleguide-for-Email)  
    Coding tips and best practices for coding HTML Email
