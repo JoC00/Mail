@@ -1,5 +1,8 @@
 ---
-**NOTE:** this applies to the mobile strategy used in the **legacy v0 version of Antwort (2013)**.
+**NOTE** 
+
+This applies to the mobile strategy used in the legacy Antwort v0.1.2 (2013).  
+[See version 1.0 Strategy →](https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0))
 
 ---
 
