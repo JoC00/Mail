@@ -6,7 +6,7 @@ If you're just starting, you should start here instead:
 
 * [Campaign Monitor's Guide to Coding Emails](http://www.campaignmonitor.com/guides/coding/) - thorough introduction to writing HTML for Email.
 * [Mailchimp Support how-to article on coding HTML Email](http://kb.mailchimp.com/article/how-to-code-html-emails) - shorter than the above novel.
-* [Mailchimp's Email-jitsu](http://mailchimp.com/resources/guides/email-jitsu/) - entertaining read with practical tips.
+* [Mailchimp's Email-jitsu](http://mailchimp.com/resources/guides/email-jitsu/) - entertaining read with practical tips. (if not there anymore, try just  [Mailchimp's Guides ](http://mailchimp.com/resources/guides/)
 
 Then come back here for some general coding style tips for HTML email.
 
