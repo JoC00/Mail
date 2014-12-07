@@ -6,7 +6,7 @@ Antwort offers responsive layouts for Email that both fits and adapts to client 
     A brief introduction to Antwort, template organization and how to use. 
     
 * [Antwort Version 1.0 Release](https://github.com/InterNations/antwort/wiki/Version-1.0-Changes)  
-   An explanation of emai rendering changes on Android 4.3+ that prompted a complete code rewrite.
+   An explanation of email rendering changes on Android 4.3+ that prompted a complete code rewrite.
 
 #### Transforming Columns to Rows
 
@@ -25,5 +25,5 @@ Antwort offers responsive layouts for Email that both fits and adapts to client 
   Solutions to common problems when working with HTML Email.
   
 * [Resources](https://github.com/InterNations/antwort/wiki/Resources)  
-  A genereal list of tools and services to help you develop HTML Emails.
+  A general list of tools and services to help you develop HTML Emails.
   
