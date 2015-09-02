@@ -52,7 +52,7 @@ In the example above, our tables have fixed width of `264px` a `.force-row` clas
 
 ```css
 @media screen and (max-width: 599px) {
-  table[class="force-row"] {
+  .force-row {
     width: 100% !important;
     max-width: 100% !important;
   }
