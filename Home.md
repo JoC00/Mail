@@ -13,7 +13,7 @@ Antwort offers responsive layouts for Email that both fits and adapts to client 
 * [Version 1.0](https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(Version-1.0))  
   A code walkthrough of current mobile strategy for changing columns to rows.
 
-* [Legacy - version 0](https://github.com/InterNations/antwort/wiki/Transforming-Columns-to-Rows-(v0-legacy))   
+* [Legacy - version 0](https://github.com/InterNations/antwort/wiki/Columns-to-Rows-(legacy))   
   This legacy works in all major Email clients *except* Android 4.3, where it can appear very broken in some cases.
    
 #### Email HTML
