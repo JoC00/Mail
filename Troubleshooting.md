@@ -114,8 +114,3 @@ To fix this, all you have to do is wrap each row in a `<table>`.
 
 N.B. The code above is stripped of any superfluous styling markup for readability.
 
-----
-
-### 5. Yahoo shows mobile version
-
-Probably because you're not using attribute selectors. See [general coding tips](#) for more detail.
